@@ -57,3 +57,8 @@
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
 </p>
+<p>
+  <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
+    <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
+  </a>
+</p>
