@@ -52,6 +52,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 </p>
 
 <p>
+  <a href="https://www.credential.net/8a909b35-a8f1-47f2-83a7-5064c283caa2#acc.mHL9xJqz" target="_blank">
+    <img alt="Introduction to Continuous Delivery and GitOps using Argo CD" height="150px" width="150px" src="images/akuity-gitops-understandingg"/>
+  </a>
   <a href="https://www.credly.com/badges/dceb9ba3-8602-4758-a0ec-3c42429cb32f" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
   </a>
