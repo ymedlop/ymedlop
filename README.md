@@ -30,6 +30,7 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <img alt="Datadog" height="20px" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 <p>
+  <img alt="Nginx" height="20px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Javascript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />
   <img alt="CSS" height="20px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
   <img alt="HTML" height="20px" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
