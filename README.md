@@ -4,6 +4,7 @@
 - 🌱 I’m currently targeting **the Kubestronaut certificaiton**
 
 ## Areas of Interest
+<p>
   <!-- infrastructure -->
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -19,6 +20,10 @@
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+   <!-- coding -->
+   <img alt="Python" src=" https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />  
+</p>
   
 ## Certifications
 ### Kubernetes
