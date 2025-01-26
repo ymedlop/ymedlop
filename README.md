@@ -22,7 +22,7 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
    <!-- coding -->
-   <img alt="Python" src=" https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />  
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />  
 </p>
   
 ## Certifications
