@@ -58,6 +58,11 @@
   </a>
 </p>
 <p>
+  <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
+    <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-undamentals.png"/>
+  </a>
+</p>
+<p>
   <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
     <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
   </a>
