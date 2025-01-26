@@ -9,8 +9,8 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 ## Areas of Interest
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-  <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
+  <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
 </p>
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -27,9 +27,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />  
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />  
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 </p>
 <p>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
@@ -77,14 +77,14 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 </p>
 
 <p>
-  <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
-    <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-fundamentals.png"/>
+  <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
+    <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
   </a>
 </p>
 
 <p>
-  <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
-    <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
+  <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
+    <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-fundamentals.png"/>
   </a>
 </p>
 
