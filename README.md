@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yeray</h1>
-<h3 align="center">A passionate CI/CD Engineer living in Germany</h3>
+<h3 align="center">A passionate Spanish IT professional based in Germany 🚀</h3>
 
-- I’m currently targeting **the Kubestronaut certificaiton**
+With a strong focus on cloud-native technologies, DevOps practices, and automation, I specialize in building scalable and reliable infrastructures. My expertise spans Kubernetes, Terraform, and AWS, combined with a keen interest in GitOps and modern monitoring solutions.
+
+🌟 **2025 Goal:** I’m currently targeting the [Kubestronaut certification](https://www.cncf.io/training/kubestronaut/).  
+<img alt="Kubeastronaut Cohort" src="images/kodekloud-cohort.png" />
 
 ## Areas of Interest
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
 </p>
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -15,6 +20,7 @@
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </p>
 <p>  
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
@@ -25,8 +31,14 @@
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />  
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />  
 </p>
+<p>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+</p>
   
 ## Certifications
+
+### DevOps & CI/CD:
 <p>
   <a href="https://www.credly.com/badges/9c5582b6-8d1b-48e9-a714-480923c64587" target="_blank">
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
@@ -38,6 +50,7 @@
     <img alt="Certified Kubernetes Administrator (CKA)" height="150px" width="150px" src="images/cka.png"/>
   </a>
 </p>
+
 <p>
   <a href="https://www.credly.com/badges/dceb9ba3-8602-4758-a0ec-3c42429cb32f" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
@@ -52,21 +65,27 @@
     <img alt="Certified Argo Project Associate (CAPA)" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
   </a>
 </p>
+
+### Cloud Platforms
 <p>
   <a href="https://www.credly.com/badges/1c4a6626-31c8-4082-bf0c-4026f0a64f21" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
 </p>
+
 <p>
   <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
     <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-fundamentals.png"/>
   </a>
 </p>
+
 <p>
   <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
     <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
   </a>
 </p>
+
+### Programming Languages
 <p>
   <a href="https://www.credly.com/badges/aff34c3c-ca64-48a9-bc07-18d4cbd221d4" target="_blank">
     <img alt="JSNAD: OpenJS Node.js Application Developer" height="150px" width="150px" src="images/jsnad.png"/>
