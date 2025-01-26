@@ -44,6 +44,7 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 <p>
   <img alt="Redis" height="20px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
   <img alt="MongoDB" height="20px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img alt="MySQL" height="20px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fffe" />
 </p>
   
 ## Certifications
