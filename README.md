@@ -59,7 +59,7 @@
 </p>
 <p>
   <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
-    <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-undamentals.png"/>
+    <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-fundamentals.png"/>
   </a>
 </p>
 <p>
