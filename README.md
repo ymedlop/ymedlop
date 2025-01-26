@@ -59,9 +59,6 @@
   <a href="https://www.credly.com/badges/fd509eba-bca6-4608-b71e-19a5f087dd31" target="_blank">
     <img alt="GitOps Enterprise" height="150px" width="150px" src="images/gitops_enterprise.png"/>
   </a>
-  <a href="https://www.credly.com/badges/b4519be4-cbc6-4819-85de-513914ad6c77" target="_blank">
-    <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
-  </a>
   <a href="https://www.credly.com/badges/33deca2f-b76b-4724-bf86-2bc2cd77966f" target="_blank">
     <img alt="Certified Argo Project Associate (CAPA)" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
   </a>
