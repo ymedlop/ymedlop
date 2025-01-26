@@ -67,3 +67,8 @@
     <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
   </a>
 </p>
+<p>
+  <a href="https://www.credly.com/badges/aff34c3c-ca64-48a9-bc07-18d4cbd221d4" target="_blank">
+    <img alt="JSNAD: OpenJS Node.js Application Developer" height="150px" width="150px" src="images/jsnad.png"/>
+  </a>
+</p>
