@@ -14,6 +14,7 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 </p>
 <p>
   <img alt="Kubernetes" height="20px" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Helm" height="20px" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff" />
   <img alt="Docker" height="20px" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Terraform" height="20px" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Ansible" height="20px" src="https://img.shields.io/badge/-Ansible-white?style=flat-square&logo=ansible&logoColor=black" />
@@ -29,9 +30,16 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <img alt="Datadog" height="20px" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 <p>
-  <img alt="Javascript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />  
+  <img alt="Javascript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />
+  <img alt="CSS" height="20px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+  <img alt="HTML" height="20px" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="Angular" height="20px" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />  
+  <img alt="Vue.js" height="20px" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />  
+  <img alt="React" height="20px" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />  
   <img alt="NodeJS" height="20px" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />  
+  <img alt="Express.js" height="20px" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="Python" height="20px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img alt="Flask" height="20px" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 </p>
 <p>
   <img alt="Redis" height="20px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
