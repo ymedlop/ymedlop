@@ -60,6 +60,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <a href="https://www.credly.com/badges/acb3890a-57e9-40af-9baa-ddfe37ffc926" target="_blank">
     <img alt="Certified Kubernetes Administrator (CKA)" height="150px" width="150px" src="images/cka.png"/>
   </a>
+  <a href="https://www.credly.com/badges/6c6debb7-38ac-450b-aed6-659b1c115a6c" target="_blank">
+    <img alt="Certified Kubernetes Security Specialist (CKS)" height="150px" width="150px" src="images/cks.png"/>
+  </a>
 </p>
 
 <p>
