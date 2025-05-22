@@ -4,7 +4,6 @@
 With a strong focus on cloud-native technologies, DevOps practices, and automation. My expertise spans Kubernetes, CI/CD, and AWS, combined with a keen interest in GitOps and modern monitoring solutions.
 
 🌟 **2025 Goal:** Accomplished [Kubestronaut certification](https://www.cncf.io/training/kubestronaut/).  
-<img alt="Kubeastronaut Cohort" src="images/kodekloudgoal.png" />
 
 ## Areas of Interest
 <p>
