@@ -51,6 +51,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 
 ### DevOps & CI/CD:
 <p>
+  <a href="https://www.credly.com/earner/earned/badge/1a117b59-2b05-44b5-b9ca-e501d4944c90" target="_blank">
+    <img alt="Kubestronaut" height="150px" width="150px" src="images/kubeastronaut.png"/>
+  </a>
   <a href="https://www.credly.com/badges/9c5582b6-8d1b-48e9-a714-480923c64587" target="_blank">
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
   </a>
@@ -62,6 +65,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   </a>
   <a href="https://www.credly.com/badges/6c6debb7-38ac-450b-aed6-659b1c115a6c" target="_blank">
     <img alt="Certified Kubernetes Security Specialist (CKS)" height="150px" width="150px" src="images/cks.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/bb9027b3-744f-431b-9e4c-6616bfcb31f5" target="_blank">
+    <img alt="Kubernetes and Cloud Native Security Associate (KCSA)" height="150px" width="150px" src="images/kcsa.png"/>
   </a>
 </p>
 
