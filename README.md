@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yeray</h1>
 <h3 align="center">A passionate Spanish IT professional based in Germany 🚀</h3>
+<p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ymedlop.png" alt="Your Image Badge" align="right" />
+</p>
 
 With a strong focus on cloud-native technologies, DevOps practices, and automation. My expertise spans Kubernetes, CI/CD, and AWS, combined with a keen interest in GitOps and modern monitoring solutions.
 
-🌟 **2025 Goal:** Accomplished [Kubestronaut certification](https://www.cncf.io/training/kubestronaut/).  
+🌟 **2025 Goal:** Accomplished [Kubestronaut certification](https://www.cncf.io/training/kubestronaut/).
 
 ## Areas of Interest
 <p>
