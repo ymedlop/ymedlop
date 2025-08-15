@@ -13,4 +13,7 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "ymedlop"
+          committer_username: "ymedlop"
+          committer_email: ""
+          image_path: "./assets/ymedlop.png"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
