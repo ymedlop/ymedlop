@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ymedlop/tryhackme-badge-workflow@feature/no-updates-fix
+      - uses: ymedlop/tryhackme-badge-workflow@main
         with:
           username: "ymedlop"
           committer_username: "ymedlop"
           committer_email: ""
-          image_path: "./images/tryhackme.png"
+          image_path: "./images/tryhackme2.png"
           use_static_image: "false"
           user_public_id: "4820972"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
