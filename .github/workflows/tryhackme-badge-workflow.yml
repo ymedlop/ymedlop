@@ -16,6 +16,6 @@ jobs:
           committer_username: "ymedlop"
           committer_email: ""
           image_path: "./images/tryhackme.png"
-          use_static_image: "false"
+          use_static_image: "true"
           user_public_id: "4820972"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
