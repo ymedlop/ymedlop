@@ -1,8 +1,8 @@
 name: TryHackMe Update Badge
 on:
   schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
+    # Make it run every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
