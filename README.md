@@ -96,9 +96,15 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <a href="https://www.credly.com/badges/1c4a6626-31c8-4082-bf0c-4026f0a64f21" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
+</p>
+<p>
+  <a href="https://www.credly.com/badges/f7597814-5111-4797-84f5-5fe9ee991b16" target="_blank">
+    <img alt="GCP Generative AI Leader" height="150px" width="150px" src="images/gcp_generative_ai_leader.png"/>
+  </a>
   <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
     <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
   </a>
+ <p> 
   <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
     <img alt="Microsoft Certified: Azure Fundamentals" height="150px" width="150px" src="images/azure-fundamentals.png"/>
   </a>
