@@ -96,6 +96,9 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <a href="https://www.credly.com/badges/1c4a6626-31c8-4082-bf0c-4026f0a64f21" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
+  <a href="https://www.credly.com/badges/bd168c32-c0b3-418c-be9a-08014c3296b11" target="_blank">
+    <img alt="AWS Certified AI Practitioner" height="150px" width="150px" src="images/aws-ai-cp.png"/>
+  </a>
 </p>
 <p>
   <a href="https://www.credly.com/badges/f7597814-5111-4797-84f5-5fe9ee991b16" target="_blank">
