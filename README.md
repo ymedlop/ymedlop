@@ -53,11 +53,11 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 
 ### DevOps & CI/CD:
 <p>
-  <a href="https://www.credly.com/earner/earned/badge/1a117b59-2b05-44b5-b9ca-e501d4944c90" target="_blank">
-    <img alt="Kubestronaut" height="150px" width="150px" src="images/kubeastronaut.png"/>
-  </a>
   <a href="https://www.credly.com/badges/9c5582b6-8d1b-48e9-a714-480923c64587" target="_blank">
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/bb9027b3-744f-431b-9e4c-6616bfcb31f5" target="_blank">
+    <img alt="Kubernetes and Cloud Native Security Associate (KCSA)" height="150px" width="150px" src="images/kcsa.png"/>
   </a>
   <a href="https://www.credly.com/badges/df985808-e2bc-4201-a070-6df6a8247bf5" target="_blank">
     <img alt="Certified Kubernetes Application Developer (CKAD)" height="150px" width="150px" src="images/ckad.png"/>
@@ -68,21 +68,12 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
   <a href="https://www.credly.com/badges/6c6debb7-38ac-450b-aed6-659b1c115a6c" target="_blank">
     <img alt="Certified Kubernetes Security Specialist (CKS)" height="150px" width="150px" src="images/cks.png"/>
   </a>
-  <a href="https://www.credly.com/badges/bb9027b3-744f-431b-9e4c-6616bfcb31f5" target="_blank">
-    <img alt="Kubernetes and Cloud Native Security Associate (KCSA)" height="150px" width="150px" src="images/kcsa.png"/>
+  <a href="https://www.credly.com/earner/earned/badge/1a117b59-2b05-44b5-b9ca-e501d4944c90" target="_blank">
+    <img alt="Kubestronaut" height="150px" width="150px" src="images/kubeastronaut.png"/>
   </a>
 </p>
 
 <p>
-  <a href="https://www.credly.com/badges/dceb9ba3-8602-4758-a0ec-3c42429cb32f" target="_blank">
-    <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/dc1e8240-3ca7-4d06-b93c-07f95f2e0d26" target="_blank">
-    <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/fd509eba-bca6-4608-b71e-19a5f087dd31" target="_blank">
-    <img alt="GitOps Enterprise" height="150px" width="150px" src="images/gitops_enterprise.png"/>
-  </a>
   <a href="https://www.credly.com/badges/33deca2f-b76b-4724-bf86-2bc2cd77966f" target="_blank">
     <img alt="Certified Argo Project Associate (CAPA)" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
   </a>
