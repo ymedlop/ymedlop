@@ -28,7 +28,6 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 <p>  
   <img alt="Prometheus" height="20px" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Grafana" height="20px" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Datadog" height="20px" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 <p>
   <img alt="Nginx" height="20px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -54,19 +53,19 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 ### DevOps & CI/CD:
 <p>
   <a href="https://www.credly.com/badges/9c5582b6-8d1b-48e9-a714-480923c64587" target="_blank">
-    <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
+    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
   </a>
   <a href="https://www.credly.com/badges/bb9027b3-744f-431b-9e4c-6616bfcb31f5" target="_blank">
-    <img alt="Kubernetes and Cloud Native Security Associate (KCSA)" height="150px" width="150px" src="images/kcsa.png"/>
+    <img alt="KCSA: Kubernetes and Cloud Native Security Associate)" height="150px" width="150px" src="images/kcsa.png"/>
   </a>
   <a href="https://www.credly.com/badges/df985808-e2bc-4201-a070-6df6a8247bf5" target="_blank">
-    <img alt="Certified Kubernetes Application Developer (CKAD)" height="150px" width="150px" src="images/ckad.png"/>
+    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" width="150px" src="images/ckad.png"/>
   </a>
   <a href="https://www.credly.com/badges/acb3890a-57e9-40af-9baa-ddfe37ffc926" target="_blank">
-    <img alt="Certified Kubernetes Administrator (CKA)" height="150px" width="150px" src="images/cka.png"/>
+    <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="images/cka.png"/>
   </a>
   <a href="https://www.credly.com/badges/6c6debb7-38ac-450b-aed6-659b1c115a6c" target="_blank">
-    <img alt="Certified Kubernetes Security Specialist (CKS)" height="150px" width="150px" src="images/cks.png"/>
+    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="images/cks.png"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/1a117b59-2b05-44b5-b9ca-e501d4944c90" target="_blank">
     <img alt="Kubestronaut" height="150px" width="150px" src="images/kubeastronaut.png"/>
@@ -75,7 +74,7 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 
 <p>
   <a href="https://www.credly.com/badges/33deca2f-b76b-4724-bf86-2bc2cd77966f" target="_blank">
-    <img alt="Certified Argo Project Associate (CAPA)" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
+    <img alt="CAPA: Certified Argo Project Associate" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
   </a>
 </p>
 
@@ -90,10 +89,13 @@ With a strong focus on cloud-native technologies, DevOps practices, and automati
 </p>
 <p>
   <a href="https://www.credly.com/badges/f7597814-5111-4797-84f5-5fe9ee991b16" target="_blank">
-    <img alt="GCP Generative AI Leader" height="150px" width="150px" src="images/gcp_generative_ai_leader.png"/>
+    <img alt="Generative AI Leader Certification" height="150px" width="150px" src="images/gcp_generative_ai_leader.png"/>
   </a>
   <a href="https://www.credly.com/badges/4ff2644b-ae07-44ec-872c-bdbf9b06c505" target="_blank">
-    <img alt="GCP Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
+    <img alt="Associate Cloud Engineer" height="150px" width="150px" src="images/gcp-associate.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/209baf72-4c9f-4a36-a7bc-bd8f179222ba" target="_blank">
+    <img alt="Professional Cloud Architect Certification" height="150px" width="150px" src="images/gcp_professional_architect.png"/>
   </a>
  <p> 
   <a href="https://www.credly.com/badges/821594a0-375e-4309-bc10-c09f999a4a83" target="_blank">
