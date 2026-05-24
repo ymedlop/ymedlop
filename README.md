@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/ymedlop/ymedlop/master/images/tryhackme.png" alt="Your Image Badge" align="right" />
 </p>
 
-With a strong focus on cloud-native technologies, DevOps practices, and automation. My expertise spans Kubernetes, CI/CD, and AWS, combined with a keen interest in GitOps and modern monitoring solutions.
+DevSecOps Engineer focused on Kubernetes, CI/CD, and GitOps. I provide consulting support to build and secure cloud-native platforms, integrating security across the Secure Software Development Lifecycle with a strong focus on continuous improvement.
 
 🌟 **2025 Goal:** Accomplished [Kubestronaut certification](https://www.cncf.io/training/kubestronaut/).
 
