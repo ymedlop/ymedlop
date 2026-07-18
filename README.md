@@ -30,17 +30,9 @@ DevSecOps Engineer focused on Kubernetes, CI/CD, and GitOps. I provide consultin
   <img alt="Grafana" height="20px" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 <p>
-  <img alt="Nginx" height="20px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img alt="Javascript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=00" />
-  <img alt="CSS" height="20px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
-  <img alt="HTML" height="20px" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img alt="Angular" height="20px" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />  
-  <img alt="Vue.js" height="20px" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />  
-  <img alt="React" height="20px" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />  
+  <img alt="Nginx" height="20px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /> 
   <img alt="NodeJS" height="20px" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />  
-  <img alt="Express.js" height="20px" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="Python" height="20px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img alt="Flask" height="20px" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 </p>
 <p>
   <img alt="Redis" height="20px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
