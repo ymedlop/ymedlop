@@ -21,7 +21,6 @@ DevSecOps Engineer focused on Kubernetes, CI/CD, and GitOps. I provide consultin
   <img alt="Terraform" height="20px" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="ArgoCD" height="20px" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img alt="Git" height="20px" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Copilot" height="20px" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
   <img alt="Github Actions" height="20px" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Jenkins" height="20px" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </p>
